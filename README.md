@@ -1,6 +1,9 @@
 # solar-system
 My final project for Computer Simulation. An N-Body simulation testing different integration types for a model of the solar system.
 
+### Modelling_the_Solar_System.pdf
+Final code report submission, including analysis and discussion of the methods, approach, and results.
+
 ### Main file: solar_simulation.py
 This should be run directly in order to produce an animation of planets orbiting the sun. It will also produce a graph of total energy against time using the Beeman method of integration.
 The Beeman method is set as the default method of integration so, if you'd like to try any other methods, please specify this as the method attribute when creating a simulation object.
